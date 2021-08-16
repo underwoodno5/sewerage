@@ -1,0 +1,25 @@
+{
+  "name": "sewerage",
+  "version": "1.0.0",
+  "description": "text cleaning using Tensorflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/underwoodno5/sewerage.git"
+  },
+  "keywords": [
+    "filter"
+  ],
+  "author": "fian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/underwoodno5/sewerage/issues"
+  },
+  "homepage": "https://github.com/underwoodno5/sewerage#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^3.8.0"
+  }
+}
